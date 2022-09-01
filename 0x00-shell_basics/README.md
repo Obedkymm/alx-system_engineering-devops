@@ -1,1 +1,1 @@
-Bye bye Betty
+Delete the directory my_first_directory that is in the /tmp director
