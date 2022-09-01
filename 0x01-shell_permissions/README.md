@@ -1,1 +1,1 @@
-prints the effective username
+cript that prints all the groups the current user is part of.
