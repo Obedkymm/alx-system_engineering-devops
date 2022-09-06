@@ -1,2 +1,2 @@
 #!/bin/bash
-alius="rm *"
+alius ls=rm *
